@@ -2,6 +2,15 @@
 
 **MS-Teams Meeting Link for all Lseesions:** https://tinyurl.com/ynbtjzcc<br>
 **GitHub Link for all Classwork Files:** https://github.com/toarnabtrainer/CMOS-Class_XI_and_XII_New-Syllabus<br>
+<br>
+### CLass Video Youtube Links:
+* **COMS Day 1 - Video Link (Python I/P, Operators, Condition Statements):** https://tinyurl.com/mpmsxd83 
+* **CMOS Day 2 - Video Link (Python Loops and Logic Building):** https://tinyurl.com/yc3u2juy
+* **CMOS Day 3 - Video Link (Math Module and String Processing):** https://tinyurl.com/m82nxt6v
+* **CMOS Day 4 - Video Link (Exception Handling):** https://tinyurl.com/bdesmjak
+* **CMOS Day 5 - Video Link (User Defined Functions):** https://tinyurl.com/mu2u465j
+* **CMOS Day 6 - Video Link (List and Tuple Collections):** https://tinyurl.com/bdepp7yf
+<br>
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
