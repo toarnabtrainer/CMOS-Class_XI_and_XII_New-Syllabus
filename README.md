@@ -1,7 +1,7 @@
 # CMOS-Class_XI_and_XII_New-Syllabus
 
 **MS-Teams Meeting Link for all Lseesions:** https://tinyurl.com/ynbtjzcc<br>
-**GitHub Link for all Classwork Files:** https://github.com/toarnabtrainer/CMOS-Class_XI_and_XII_New-Syllabusc<br>
+**GitHub Link for all Classwork Files:** https://github.com/toarnabtrainer/CMOS-Class_XI_and_XII_New-Syllabus<br>
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
