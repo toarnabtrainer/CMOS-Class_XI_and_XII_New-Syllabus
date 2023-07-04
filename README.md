@@ -10,6 +10,7 @@
 * **CMOS Day 4 - Video Link (Exception Handling):** https://tinyurl.com/bdesmjak
 * **CMOS Day 5 - Video Link (User Defined Functions):** https://tinyurl.com/mu2u465j
 * **CMOS Day 6 - Video Link (List and Tuple Collections):** https://tinyurl.com/bdepp7yf
+* **CMOS Day 7 - Video Link (Dictionary, Set and Frozen Set Collections):**
 <br>
 
 **Python Download Link:**<br>
