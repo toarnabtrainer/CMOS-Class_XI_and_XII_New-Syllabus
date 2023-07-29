@@ -11,7 +11,10 @@
 * **CMOS Day 5 - Video Link (User Defined Functions):** https://tinyurl.com/mu2u465j
 * **CMOS Day 6 - Video Link (List and Tuple Collections):** https://tinyurl.com/bdepp7yf
 * **CMOS Day 7 - Video Link (Dictionary, Set and Frozen Set Collections):** https://tinyurl.com/2fdthc5d
-* **CMOS Day 8 - Video Link (Map, Filter, Reduce and List Comprehension):** 
+* **CMOS Day 8 - Video Link (Map, Filter, Reduce and List Comprehension):** NA
+* **CMOS Day 9 - Video Link (OOP in Python (Introduction and Concepts)):** NA
+* **CMOS Day 10 - Video Link (OOP in Python (Inheritance)):** NA
+* 
 <br>
 
 **Python Download Link:**<br>
