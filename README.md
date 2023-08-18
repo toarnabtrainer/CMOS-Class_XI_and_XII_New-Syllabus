@@ -14,7 +14,7 @@
 * **CMOS Day 8 - Video Link (Map, Filter, Reduce and List Comprehension):** https://tinyurl.com/4dtdhb7b
 * **CMOS Day 9 - Video Link (OOP in Python (Introduction and Concepts)):** https://tinyurl.com/mzt96aaz
 * **CMOS Day 10 - Video Link (OOP in Python (Inheritance)):** https://tinyurl.com/2avd73jc
-* **CMOS Day 11 - Video Link (OOP in Python (Operator Overloading, Abstract Class and Interface)):** NA 
+* **CMOS Day 11 - Video Link (OOP in Python (Operator Overloading, Abstract Class and Interface)):** https://tinyurl.com/42aadnv9 
 <br>
 
 **Python Download Link:**<br>
