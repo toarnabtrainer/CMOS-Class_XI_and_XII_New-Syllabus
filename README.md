@@ -1,6 +1,6 @@
 # CMOS-Class_XI_and_XII_New-Syllabus
 
-**MS-Teams Meeting Link for all Lseesions:** https://tinyurl.com/ynbtjzcc<br>
+**MS-Teams Meeting Link for all Sessions:** https://tinyurl.com/ynbtjzcc<br>
 **GitHub Link for all Classwork Files:** https://github.com/toarnabtrainer/CMOS-Class_XI_and_XII_New-Syllabus<br>
 <br>
 ### Class Video Youtube Links:
