@@ -16,6 +16,7 @@
 * **CMOS Day 10 - Video Link (OOP in Python (Inheritance)):** https://tinyurl.com/2avd73jc
 * **CMOS Day 11 - Video Link (OOP in Python (Operator Overloading, Abstract Class and Interface)):** https://tinyurl.com/42aadnv9 
 * **CMOS Day 12 - Video Link (Data Structure - Stack and Queue Implementation):** https://tinyurl.com/4ntt5cvn
+* **CMOS Day-13 - Video Link (TkInter - Demonstration):** https://tinyurl.com/yc483y55 
   
 <br>
 
